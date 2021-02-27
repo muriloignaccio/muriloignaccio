@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hey there, I'm Murilo 👋
 
-<!--
-**muriloignaccio/muriloignaccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Since I was a child, I fed a huge curiosity about how things happen in a computer, so during my teenage days I've become the boy who would format computers and set up routers for the family, more and more I felt aroused into knowing what happens on the background. This thirst for knowledge made me go to a lot of incredible schools like MasterTech, Digital House, Codenation and Gama Academy which contributed into training the developer I am today.
 
-Here are some ideas to get you started:
+- 🔭    I’m currently working at [Paypal](https://github.com/paypal) as an Integration Engineer and at [Digital House](https://github.com/DigitalHouseBrasil) as a Full Stack Professor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :rocket:    Passionate about programming, technology and teaching. 
+
+- :coffee:    Wanna have some coffee? Feel free to reach me at murilohsignacio@gmail.com.
+
+<details><summary><b>GitHub Stats</b></summary>
+  
+  ![](https://github-readme-stats.vercel.app/api?username=muriloignaccio&show_icons=true&hide=contribs)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muriloignaccio&layout=compact&hide=Tcl)
+
+</details>
+
+
+<details><summary><b>Contact</b></summary>
+  
+  - [LinkedIn](https://www.linkedin.com/in/muriloignacio/)
+  - [Instagram](https://www.instagram.com/muriloignaccio)
+  - [Discord](https://discord.bio/p/murilo)
+  - [Rocketseat](https://app.rocketseat.com.br/me/luizeduardomr)
+
+</details>
+  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=muriloignaccio.readme)
