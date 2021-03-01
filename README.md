@@ -10,8 +10,8 @@ Since I was a child, I fed a huge curiosity about how things happen in a compute
 
 <details><summary><b>GitHub Stats</b></summary>
   
-  ![](https://github-readme-stats.vercel.app/api?username=muriloignaccio&show_icons=true&hide=contribs)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muriloignaccio&layout=compact&hide=Tcl)
+  ![](https://github-readme-stats.vercel.app/api?username=muriloignaccio&show_icons=true&bg_color=161c22&text_color=ffffff&hide_border=true)       
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muriloignaccio&layout=compact&bg_color=161c22&text_color=ffffff&hide_border=true)
 
 </details>
 
@@ -21,7 +21,7 @@ Since I was a child, I fed a huge curiosity about how things happen in a compute
   - [LinkedIn](https://www.linkedin.com/in/muriloignacio/)
   - [Instagram](https://www.instagram.com/muriloignaccio)
   - [Discord](https://discord.bio/p/murilo)
-  - [Rocketseat](https://app.rocketseat.com.br/me/luizeduardomr)
+  - [Rocketseat](https://app.rocketseat.com.br/me/murilo)
 
 </details>
   
